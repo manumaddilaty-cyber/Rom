@@ -1,0 +1,11 @@
+ROM Simulation Started
+----------------------
+Address = 0, Data = a1
+Address = 1, Data = b2
+Address = 2, Data = c3
+Address = 3, Data = d4
+...
+Address = e, Data = 9f
+Address = f, Data = f0
+----------------------
+ROM Simulation Finished
